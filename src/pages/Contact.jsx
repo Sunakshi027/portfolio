@@ -28,9 +28,9 @@ export default function Contact() {
             </p>
 
             <div className="space-y-3 text-gray-300">
-              <p className="hover:text-cyan-400 transition cursor-pointer">📧 sunakshi.dev@email.com</p>
-              <p className="hover:text-cyan-400 transition cursor-pointer">💻 github.com/sunakshi</p>
-              <p className="hover:text-cyan-400 transition cursor-pointer">🌐 portfolio.dev</p>
+              <p className="hover:text-cyan-400 transition cursor-pointer">📧 tsunakshi329@email.com</p>
+              <p className="hover:text-cyan-400 transition cursor-pointer">💻 github.com/Sunakshi027</p>
+              
             </div>
 
           </div>
