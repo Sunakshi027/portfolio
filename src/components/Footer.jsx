@@ -5,7 +5,7 @@ export default function Footer() {
 
         {/* Name */}
         <h2 className="text-2xl font-bold tracking-wide text-cyan-400">
-          Sunakshi Dev
+          Sunakshi 
         </h2>
 
         {/* Tagline */}
