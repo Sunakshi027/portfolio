@@ -1,6 +1,6 @@
 // src/pages/Training.jsx
 import React from "react";
-
+import certificate from "../assets/certificate.jpg";
 
 
 export default function Training() {
@@ -60,19 +60,31 @@ and Optimized website performance for different devices and browsers. </p>
       </p>
     </div>
 
-    {/* Single Certificate Card with Image */}
-    <div className="max-w-sm mx-auto bg-gray-800 rounded-xl shadow-lg hover:scale-105 transform transition duration-300">
-      <img
-        src="/images/certificate.png" // Replace with your certificate image path
-        alt="Certificate"
-        className="w-full h-64 object-cover rounded-t-xl"
-      />
-      <div className="p-6 text-center">
-        <h3 className="text-2xl font-semibold mb-2 text-white">MernStack </h3>
-        <p className="text-gray-300 mb-1">Issued by: Bepoj technology pvt ltd</p>
-        <p className="text-gray-400 text-sm">Completion Date: [jan-2026]</p>
-      </div>
-    </div>
+
+
+
+
+{/* Compact Certificate Card */}
+<div className="max-w-2xl mx-auto bg-gray-800 rounded-xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300 flex flex-col md:flex-row items-center">
+  {/* Certificate Image */}
+  <div className="md:w-1/3 p-4 flex items-center justify-center">
+    <img
+      src={certificate}
+      alt="Certificate"
+      className="w-40 h-40 object-contain rounded-lg bg-gray-900"
+    />
+  </div>
+
+  {/* Certificate Text */}
+  <div className="md:w-2/3 p-4 flex flex-col justify-center text-center md:text-left">
+    <h3 className="text-2xl font-semibold mb-1 text-white">MERN Stack Development</h3>
+    <p className="text-gray-300 mb-1 text-sm">Issued by: Bepoj Technology Pvt. Ltd.</p>
+    <p className="text-gray-400 mb-2 text-xs">Completion Date: Jan 2026</p>
+    <p className="text-gray-400 text-sm">
+      Demonstrates ability to build full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) with responsive frontend design and backend integration.
+    </p>
+  </div>
+</div>
   </div>
 </section>
   );
