@@ -2,7 +2,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="py-28 px-6 bg-gradient-to-l from-[#2D283E] via-[#3A3452] to-[#564F6F] transition-colors duration-700"
+      className="py-5 px-6 bg-gradient-to-l from-[#2D283E] via-[#3A3452] to-[#564F6F] transition-colors duration-700"
     >
       <div className="max-w-6xl mx-auto">
 
