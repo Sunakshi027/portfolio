@@ -32,7 +32,7 @@ hover:scale-110 transition duration-500"
 
 <button className="bg-[#564F6F] text-white px-4 py-2 rounded-lg
 hover:scale-105 transition">
-GitHub
+ <a href="https://github.com/Sunakshi027">Github</a>
 </button>
 
 <button className="border border-[#564F6F] px-4 py-2 rounded-lg

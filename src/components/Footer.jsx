@@ -13,34 +13,12 @@ export default function Footer() {
           MERN Stack Developer • Building modern responsive web applications
         </p>
 
-        {/* Social Links */}
-        <div className="flex justify-center gap-8 text-lg">
-          <a
-            href="#"
-            className="hover:text-cyan-400 hover:scale-125 transition duration-300"
-          >
-            🌐
-          </a>
-
-          <a
-            href="#"
-            className="hover:text-cyan-400 hover:scale-125 transition duration-300"
-          >
-            💻
-          </a>
-
-          <a
-            href="#"
-            className="hover:text-cyan-400 hover:scale-125 transition duration-300"
-          >
-            📧
-          </a>
-        </div>
+      
 
         {/* Divider */}
         <div className="border-t border-white/20 pt-4 text-sm text-gray-400">
           <p>
-            © 2026 Sunakshi Portfolio • All Rights Reserved
+            © 2025 Sunakshi Portfolio • All Rights Reserved
           </p>
         </div>
 

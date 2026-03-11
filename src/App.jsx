@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
-
+import Training from "./pages/Training";
 function App() {
 
 return (
@@ -17,6 +17,7 @@ return (
 <Home />
 <About />
 <Projects />
+<Training/>
 <Contact />
 
 <Footer />

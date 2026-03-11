@@ -42,9 +42,8 @@ export default function Home() {
 
             <a
               href="#contact"
-              className="border border-cyan-400 px-7 py-3 rounded-lg
-              hover:bg-gradient-to-r from-cyan-400 to-blue-500 hover:text-white
-              transition duration-300 hover:scale-105"
+              className="border border-cyan-400 px-7 py-3 rounded-lg bg-gradient-to-r from-cyan-400 to-blue-500
+            "
             >
               Contact Me
             </a>
