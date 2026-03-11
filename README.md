@@ -1,16 +1,72 @@
-# React + Vite
+# 👋 Hi, I'm Sunakshi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! I’m a **MERN Stack Developer** with a passion for building responsive and modern web applications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔹 About Me
+- Experienced in **Frontend development** using React.js, HTML, CSS, and JavaScript.  
+- Hands-on knowledge of **Backend** technologies: Node.js, Express.js, MongoDB.  
+- Strong understanding of **UI/UX design** principles and responsive layouts.  
+- Continuously learning new frameworks and improving coding practices.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💻 Skills
+| Frontend | Backend | Tools & Others |
+|----------|---------|----------------|
+| React.js | Node.js | Git & GitHub |
+| HTML/CSS | Express.js | VS Code |
+| JavaScript | MongoDB | Tailwind CSS |
+| Redux | REST APIs | Figma / UI Design |
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Projects
+### 1. **Portfolio Website**
+- Built a **responsive portfolio website** showcasing projects, skills, and certificates.  
+- Technologies: React.js, Tailwind CSS, Vite.  
+- [Live Demo](#) | [GitHub Repo](#)
+
+### 2. **E-commerce Platform**
+- Developed a **full-stack MERN e-commerce application** with authentication and product management.  
+- Technologies: MongoDB, Express, React, Node.js, Stripe API.  
+- [Live Demo](#) | [GitHub Repo](#)
+
+### 3. **Task Manager App**
+- Built a **task management app** with CRUD functionality and responsive UI.  
+- Technologies: React.js, Node.js, MongoDB, Tailwind CSS.  
+- [GitHub Repo](#)
+
+---
+
+## 🏫 Training & Internship
+### Training Program
+- **MERN Stack Development**  
+- **Company:** Bepoj Technology Pvt. Ltd.  
+- **Duration:** Aug 2025 – Jan 2026  
+- **Description:** Hands-on experience in building responsive web apps, integrating APIs, and learning backend technologies.
+
+### Internship
+- **Company:** Novem Control Pvt. Ltd.  
+- **Duration:** Jan – July 2024  
+- **Description:** Designed and maintained responsive, user-friendly web interfaces, optimized performance, and implemented modern UI/UX practices.
+
+---
+
+## 📜 Certificates
+- **MERN Stack Development** – Bepoj Technology Pvt. Ltd., Jan 2026  
+- **[Add any other certificates here]**
+
+---
+
+## 📫 Contact Me
+- Email: [your-email@example.com](mailto:your-email@example.com)  
+- LinkedIn: [Your LinkedIn](#)  
+- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
+- Portfolio: [Your Portfolio](#)
+
+---
+
+## 🌟 Let’s Connect
+I’m always looking to **collaborate on exciting projects** and improve my skills. Feel free to reach out!  
