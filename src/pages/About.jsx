@@ -14,7 +14,7 @@ export default function About() {
     },
     {
       name: "Tailwind",
-      img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+      img: "https://tse4.mm.bing.net/th/id/OIP.pEeKeUoENMqoN-kR8f8XoQHaFj?pid=Api&P=0&h=180",
       desc: "Utility-first CSS for responsive UI design."
     },
     {
@@ -31,6 +31,11 @@ export default function About() {
       name: "Git",
       img: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
       desc: "Version control and collaboration workflow."
+    },
+      {
+      name: "Next JS",
+      img: "https://tse3.mm.bing.net/th/id/OIP.2BeGWDeDgcuOAYp3wNPdegHaGp?pid=Api&P=0&h=180",
+   
     }
   ];
 
@@ -40,7 +45,7 @@ export default function About() {
       className="py-28 px-6 bg-gradient-to-br from-gray-900 via-gray-950 to-black text-white"
     >
 
-      <div className="max-w-6xl mx-auto bg-gray-900/80 backdrop-blur-md rounded-3xl shadow-xl p-16 border border-gray-800">
+      <div className="max-w-7xl mx-auto bg-gray-900/80 backdrop-blur-md rounded-3xl shadow-xl p-10 border border-gray-800">
 
         {/* TITLE */}
         <h2 className="text-4xl md:text-5xl font-bold text-center text-white mb-16">
@@ -110,14 +115,14 @@ export default function About() {
           Skills & Technologies
         </h3>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8 text-center">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-8 text-center">
           {skills.map((skill, i) => (
             <div
               key={i}
               className="bg-gray-800 p-6 rounded-xl shadow-md hover:-translate-y-2 hover:shadow-2xl transition duration-300"
             >
-              <div className="w-14 h-14 mx-auto mb-3 bg-gray-900 rounded-md flex items-center justify-center">
-                <img src={skill.img} className="w-8" alt={skill.name} />
+              <div className="w-25 h-25 mx-auto mb-3 bg-gray-900 rounded-md flex items-center justify-center">
+                <img src={skill.img} className="w-20" alt={skill.name} />
               </div>
 
               <p className="font-medium text-white mb-2">{skill.name}</p>
