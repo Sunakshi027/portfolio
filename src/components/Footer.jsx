@@ -18,7 +18,7 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-white/20 pt-4 text-sm text-gray-400">
           <p>
-            © 2025 Sunakshi Portfolio • All Rights Reserved
+            © 2026 Sunakshi Portfolio • All Rights Reserved
           </p>
         </div>
 

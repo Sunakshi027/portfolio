@@ -35,10 +35,6 @@ hover:scale-105 transition">
  <a href="https://github.com/Sunakshi027">Github</a>
 </button>
 
-<button className="border border-[#564F6F] px-4 py-2 rounded-lg
-hover:bg-[#564F6F] hover:text-white transition">
-Live Demo
-</button>
 
 </div>
 

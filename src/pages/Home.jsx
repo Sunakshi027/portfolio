@@ -52,12 +52,12 @@ export default function Home() {
 
         {/* RIGHT IMAGE */}
         <div className="flex justify-center">
-          <div className="bg-white/10 backdrop-blur-md p-6 rounded-3xl shadow-2xl
+          <div className="bg-white/10 backdrop-blur-md p-6 rounded-md shadow-2xl mb-[30px]
           hover:scale-105 transition duration-500">
             <img
               src={img1}
               alt="profile"
-              className="w-60 md:w-72 rounded-xl object-cover"
+              className="w-60 md:w-72 rounded-md object-cover"
             />
           </div>
         </div>

@@ -41,15 +41,6 @@ working knowledge of backend technologies, including Node.js, Express.js,
 and MongoDB</p>
       </div>
 
-      {/* Internship */}
-      <div className="bg-gray-800 rounded-xl shadow-lg p-6 hover:scale-105 transform transition duration-300 md:col-span-1">
-        <h3 className="text-2xl font-semibold mb-2 text-white">Internship</h3>
-        <p className="text-gray-300 mb-2">[Novem control Pvt. Ltd]</p>
-        <p className="text-gray-400 mb-2">Duration: [jan-july 2024]</p>
-        <p className="text-gray-400 text-sm">Description: Designed, developed, and maintained responsive and user-friendly web
-interfaces.The internship focused on implementing modern UI/UX practices
-and Optimized website performance for different devices and browsers. </p>
-      </div>
     </div>
 
     {/* Certificate Section */}
